@@ -27,7 +27,7 @@
 
 ### 2. การสร้าง Model
 ไฟล์ [`lib/models/todo.dart`](lib/models/todo.dart)  
-```dart
+>dart
 class Todo {
   final int? id;
   String title;
@@ -112,6 +112,7 @@ void main() {
   );
 }
 📸 Screenshot ผลลัพท์ 
+<p>
 <br>
 <img src="1.png" width="250">
 หน้าแรกของแอพ
@@ -130,9 +131,8 @@ void main() {
 <br>
 <img src="6.png" width="250">
 กด hamburger menu เพื่อดูรายการ ล่าสุด,กำหนดส่งใกล้สุด,ความสำคัญงาน
-markdown
-Copy code
-![คำอธิบายรูป](screenshots/filename.png)
+</p>
+
 📦 การติดตั้งและรัน
 bash
 Copy code
